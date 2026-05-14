@@ -1,0 +1,1 @@
+{"name":"Trafficalm Speed Connect MUTCD","short_name":"TC Speed Connect (MUTCD)","start_url":"/speed_connect_web/mutcd/","display":"standalone","background_color":"#ffffff","theme_color":"#000000","lang":"en","scope":"/speed_connect_web/mutcd/","icons":[{"src":"icons/192.png","sizes":"192x192","type":"image/png"},{"src":"icons/512.png","sizes":"512x512","type":"image/png"}]}
